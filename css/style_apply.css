@@ -1,0 +1,86 @@
+#application{
+	height: auto;
+	width: 90%;
+	margin-left:10px;
+
+}
+
+table{
+	width: 100%;
+}
+
+/*table tr{
+	background: #ddd;
+}*/
+
+#top{
+	width: 100%;
+	text-align: right;
+}
+
+#top input,select{
+	float: left;
+}
+
+#basic_info input{
+	width: 260px;
+}
+
+#sms{
+	margin-top: 10px; 
+}
+
+#present_address{
+	top:20px;
+	margin-top: 10px; 
+}
+
+#present_address input[type="text"]{
+	width: 100px;
+}
+
+#present_address input[type="checkbox"]{
+	width: 50px;
+}
+
+#location_others textarea{
+	width: 100%;
+}
+
+#load{
+	margin-top: 10px; 
+}
+
+#load_btn{
+	/*margin-left:30px;*/
+	background:#3498db;
+	border-radius:8px;
+	height: 30px;
+	margin: 5px 0px 5px 30px;
+	color: white;
+	font-weight: bold;
+	
+}
+
+#load table th{
+	background: #3498db;
+}
+
+#final_btn{
+	margin-top: 10px;
+}
+
+#final_btn table{
+	width: 100%;
+	text-align: center;
+}
+
+fieldset legend{
+	font-weight: bold;
+}
+
+fieldset{
+	width: 800px;
+	margin-top: 15px;
+	border:1px solid gray; 
+}
